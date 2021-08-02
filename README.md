@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thushal-bk
-- 👀 I’m interested in a career in COMP NETWORKING
-- 🌱 I’m currently learning NETWORKING IN PYTHON
-- 📫 How to reach me thushal1994@gmail.com
+- 👀 I’m interested in a career in Computer Networking
+- 🌱 I’m currently learning Socket programming in Networking and will be hosting my projects soon on git-hub
+- 📫 You can reach me on thushal1994@gmail.com
 
